@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Sh0ut",
+  "base_artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+  "createdAt": "2026-02-26T10:13:13.631980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "sh0ut",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+      "has_synced": true,
+      "path": "select/01_sh0ut_SawanoHiroyuki[nZk]_Tielle&Gemie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "sh0ut",
+      "artist": "SawanoHiroyuki[nZk]:Tielle & Gemie",
+      "has_synced": true,
+      "path": "select/02_sh0ut_SawanoHiroyuki[nZk]_Tielle_&_Gemie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sh0ut",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/03_Sh0ut_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sh0ut",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/04_Sh0ut_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sh0ut",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+      "has_synced": true,
+      "path": "select/05_Sh0ut_SawanoHiroyuki[nZk]_Tielle&Gemie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "sh0ut (Remastered)",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+      "has_synced": true,
+      "path": "select/06_sh0ut_(Remastered)_SawanoHiroyuki[nZk]_Tielle&Gemie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sh0ut (feat. Tielle & Gemie)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/07_Sh0ut_(feat._Tielle_&_Gemie)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "sh0ut",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+      "has_synced": true,
+      "path": "select/08_sh0ut_SawanoHiroyuki[nZk]_Tielle&Gemie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "sh0ut (feat. Tielle & Gemie) [Remastered]",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/09_sh0ut_(feat._Tielle_&_Gemie)_[Remastered]_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "sh0ut (Remastered)",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&R!N / Gemie",
+      "has_synced": true,
+      "path": "select/10_sh0ut_(Remastered)_SawanoHiroyuki[nZk]_Tielle&R!N___Gemie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "sh0ut",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&R!N / Gemie",
+      "has_synced": true,
+      "path": "select/11_sh0ut_SawanoHiroyuki[nZk]_Tielle&R!N___Gemie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "sh0ut",
+      "artist": "sawanohiroyukinzktielle  gemie",
+      "has_synced": true,
+      "path": "select/12_sh0ut_sawanohiroyukinzktielle_gemie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "sh0ut",
+      "artist": "sawanohiroyukinzktiellegemie",
+      "has_synced": true,
+      "path": "select/13_sh0ut_sawanohiroyukinzktiellegemie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "sh0ut",
+      "artist": "SawanoHiroyuki[nZk]:Tielle",
+      "has_synced": true,
+      "path": "select/14_sh0ut_SawanoHiroyuki[nZk]_Tielle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "sh0ut (ft. Tielle&Gemie) [remastered]",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/15_sh0ut_(ft._Tielle&Gemie)_[remastered]_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sh0ut",
+      "artist": "SawanoHiroyuki[nZk]:Tielle&Gemie",
+      "has_synced": false,
+      "path": "select/pl_01_sh0ut_SawanoHiroyuki[nZk]_Tielle&Gemie.txt"
+    }
+  ]
+}
